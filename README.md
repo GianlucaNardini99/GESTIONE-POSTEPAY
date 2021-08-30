@@ -1,8 +1,8 @@
-# GIANLUCA NARDINI
+### GIANLUCA NARDINI
 
-### GESTIONE-POSTEPAY
+# GESTIONE-POSTEPAY
 
-# Specifica del progetto
+### Specifica del progetto
 
 Il progetto consiste in un software grafico per la gestione delle postepay dei diversi clienti. Il programma presenta diverse schermate che permettono di:
 -	Inserire il cliente che ha una nuova postepay
